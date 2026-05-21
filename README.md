@@ -160,8 +160,7 @@ Computer Science graduate with interests in:
 ## Contact
 
 - **Email:** raghuwinder2001@gmail.com
-- **GitHub:** Add your GitHub profile link
-- **LinkedIn:** Add your LinkedIn profile link
+- **LinkedIn:** https://www.linkedin.com/in/ raghuwinder-singh-21145a197
 
 ---
 
